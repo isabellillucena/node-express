@@ -4,7 +4,7 @@ const app = express()
 const port = 3333
 
 app.get("/", (request, response) => {
-    response.send("<h1>Olá, mundo! Sou o backend.</h1>")
+    response.send("<h1>Olá, mundo!</h1>")
 })
 
 app.listen(port, () => {
