@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Node e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Isabelli Lucena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
